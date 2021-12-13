@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>  
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/920032936823238658/920034232556986438/1c9a758605053b938b62bad2d3f7b3ed.gif">
+  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/920032936823238658/920037337814155304/a9a891545fd9a5717408df2ff8891096.gif">
 </div>
   
   ##
