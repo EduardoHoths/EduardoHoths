@@ -1,4 +1,4 @@
-# Olá! Eu sou o Eduardo Hoths
+# Olá! Eu sou o Eduardo 
 - 👨‍💼 - Técnico em Recursos Humanos
 - 📚 - Comércio Exterior - 1º Sem
 - 💻 - Estudando tecnologias Front-End
