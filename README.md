@@ -1,6 +1,6 @@
 # Olá! Eu sou o Eduardo 
 - 👨‍💼 - Técnico em Recursos Humanos
-- 📚 - Comércio Exterior - 1º Sem
+- 📚 - Comércio Exterior - 2º Sem
 - 💻 - Estudando tecnologias Front-End
 
 <div align="center">
