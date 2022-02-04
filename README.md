@@ -29,6 +29,12 @@
   <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/920032936823238658/920037337814155304/a9a891545fd9a5717408df2ff8891096.gif">
 </div>
   
+  ## Compilador
+  
+<div style="display: inline_block"> 
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' height='35px' width='45px' align='center' alt='sass'>
+</div>
+  
   ## Contato:
   
 <div>   
