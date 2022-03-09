@@ -1,38 +1,17 @@
 # Olá! Eu sou o Eduardo 
-- 👨‍💼 - Técnico em Recursos Humanos
-- 📚 - Comércio Exterior - 2º Sem
-- 💻 - Estudando tecnologias Front-End
+
+- 💻 - Sou desenvolvedor front-end.
+- ☕ - Habilidades: HTML, CSS, Javascript, SASS e Bootstrap.
+- 💼 - Ferramentas: VS Code, Figma, Canvas, Git e GitHub.
 
 <div align="center">
   <a href="https://github.com/eduardohoths">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eduardohoths&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohoths&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
-
-  
-  ## SO, Versionameto e Ferramentas:
-
-<div style="display: inline_block" align="left">
-<img align="center" alt="Windows" height="25" width="35" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-<img align="center" alt="Git" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-<img align="center" alt="Github" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
-<img align="center" alt="VSCode" height="25" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"/>
-</div>
-  
-  ## Linguagens:
- 
 <div style="display: inline_block"> 
-  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="Edu-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  
   <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/920032936823238658/920037337814155304/a9a891545fd9a5717408df2ff8891096.gif">
-</div>
-  
-  ## Compilador
-  
-<div style="display: inline_block"> 
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg' height='35px' width='45px' align='center' alt='sass'>
 </div>
   
   ## Contato:
