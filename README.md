@@ -1,8 +1,8 @@
 # Olá! Eu sou o Eduardo 
 
-- 💻 - Sou desenvolvedor front-end.
 - ☕ - Habilidades: HTML, CSS, Javascript, SASS e Bootstrap.
 - 💼 - Ferramentas: VS Code, Figma, Canvas, Git e GitHub.
+- 💻 - Estou estudando UI/UX design, React e conceitos avançados de Javascript.
 
 <div align="center">
   <a href="https://github.com/eduardohoths">
