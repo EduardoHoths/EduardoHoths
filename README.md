@@ -2,7 +2,7 @@
 
 - ☕ - Habilidades: HTML, CSS, Javascript, SASS e Bootstrap.
 - 💼 - Ferramentas: VS Code, Figma, Canvas, Git e GitHub.
-- 💻 - Estou estudando UI/UX design, React e Styled Components
+- 💻 - Estou estudando UI/UX design, React e Styled Components.
 
 <div align="center">
   <a href="https://github.com/eduardohoths">
