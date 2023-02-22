@@ -1,8 +1,8 @@
 # Olá! Eu sou o Eduardo 
 
-- ☕ - Habilidades: HTML, CSS, Javascript, SASS.
+- ☕ - Habilidades: React, Typescript e Styled Components
 - 💼 - Ferramentas: VS Code, Figma, Git e GitHub.
-- 💻 - Estou estudando React, Typescript e NodeJS.
+- 💻 - Estou estudando Testes unitários e Storybook.
 
 <div align="center">
   <a href="https://github.com/eduardohoths">
