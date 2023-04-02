@@ -1,8 +1,8 @@
 # Olá! Eu sou o Eduardo 
 
-- ☕ - Habilidades: React, Typescript e Styled Components
+- ☕ - Habilidades: React, Typescript,Styled Components, Teste unitários, Node, MySQL e MongoDB
 - 💼 - Ferramentas: VS Code, Figma, Git e GitHub.
-- 💻 - Estou estudando Testes unitários e Storybook.
+- 💻 - Estou estudando Vue, PHP com Laravel e Flutter
 
 <div align="center">
   <a href="https://github.com/eduardohoths">
