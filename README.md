@@ -3,15 +3,7 @@
 - ☕ - Habilidades: NextJS, Typescript, Styled Components, Teste unitários, Node, MySQL e MongoDB
 - 💼 - Ferramentas: VS Code, Figma, Git e GitHub.
 
-<div align="center">
-  <a href="https://github.com/eduardohoths">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=eduardohoths&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardohoths&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"> 
-  
-  <img align="right" alt="Edu-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/920032936823238658/920037337814155304/a9a891545fd9a5717408df2ff8891096.gif">
-</div>
+
   
   ## Contato:
   
