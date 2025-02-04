@@ -1,6 +1,6 @@
 # Olá! Eu sou o Eduardo 
 
-- ☕ - Habilidades: NextJS, Typescript, Styled Components, Teste unitários, Node, MySQL e MongoDB
+- ☕ - Habilidades: NextJS, Typescript, Styled Components, Testes unitários, Node, MySQL e MongoDB
 - 💼 - Ferramentas: VS Code, Figma, Git e GitHub.
 
 
