@@ -1,10 +1,30 @@
 # Olá! Eu sou o Eduardo 
 
-- ☕ - Habilidades: NextJS, Typescript, Styled Components, Testes unitários, Node, MySQL e MongoDB
-- 💼 - Ferramentas: VS Code, Figma, Git e GitHub.
+☕ Habilidades
 
+- Front-End: React, Next.js, TypeScript, TailwindCSS, Styled Components
 
-  
+- Back-End: PHP, Laravel, Node.js, Python
+
+- APIs & Processos: Desenvolvimento de APIs REST, automação com Selenium e Pandas
+
+- Bancos de Dados: MySQL, SQL Server, MongoDB
+
+- DevOps: Docker, GitHub Actions, CI/CD, automação de deploy
+
+- Tests: Testes unitários e de integração
+
+- Arquitetura & Boas Práticas: Clean Code, SOLID, componentização, padrões de projeto
+
+💼 Ferramentas
+
+- IDE & Design: VS Code, Figma
+
+- Versionamento: Git, GitHub
+
+- Infra & Deploy: Docker, GitHub Actions
+
+ 
   ## Contato:
   
 <div>   
